@@ -1,8 +1,8 @@
-# RealPunch
+![thumbnail](https://user-images.githubusercontent.com/95982751/180638464-c811d4d4-08f8-40fb-9ec4-d522a48b3e0f.png)
 
 # :iphone: Project Title
 
-### 펀치속도 측정앱, 참펀치
+### 펀치속도 측정앱, 리얼펀치
 
 
 ## :pushpin: Features
