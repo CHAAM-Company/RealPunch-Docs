@@ -48,8 +48,10 @@
 
 ## Skills & Tech Stack
 <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=Swift&logoColor=white">
-SwiftUI
-Lottie
+* Core Motion
+* GameKit
+* SwiftUI
+* Lottie
 
 
 ## Download
