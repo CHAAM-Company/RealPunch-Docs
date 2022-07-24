@@ -40,7 +40,10 @@
 
 
 ## Screenshots
-
+|<img src="https://user-images.githubusercontent.com/95982751/180641201-cdde27e5-ead3-4de9-985a-5e75aeacbaf3.png" width=300>|<img src="https://user-images.githubusercontent.com/95982751/180641503-d89a3147-4687-4a3e-95de-f78858a6df61.png" width=300>|<img src="https://user-images.githubusercontent.com/95982751/180641508-682ea914-ccbe-4805-9e70-5d2cdcbabca8.png" width=300>|
+|------|---|---|
+|<img src="https://user-images.githubusercontent.com/95982751/180641516-3b29f55b-c338-4361-8398-c37254c727a6.png" width=300>|<img src="https://user-images.githubusercontent.com/95982751/180641519-2d92fe4b-bc2a-4897-af27-17c510e077c0.png" width=300>|<img src="https://user-images.githubusercontent.com/95982751/180641684-adecd3b9-f3b1-4b8b-897e-c229a3a355c4.png" width=300>|
+|<img src="https://user-images.githubusercontent.com/95982751/180641521-8e479af8-4b28-4162-b271-3c3d6ea70174.png" width=300>|<img src="https://user-images.githubusercontent.com/95982751/180641522-5d64224b-aace-498f-940b-716741c3581d.png" width=300>||
 
 
 ## Skills & Tech Stack
@@ -55,10 +58,9 @@ Real Punch의 최신 버전을 [앱스토어]()에서 다운받으실 수 있습
 
 ## Documentation
 
-[Documentation](https://developer.apple.com/xcode/swiftui/)
+[Apple Documentation - SwiftUI](https://developer.apple.com/xcode/swiftui/)
 
 
 ## License
 
-[MIT](https://choosealicense.com/licenses/mit/)<br>
 [APACHE 2.0](https://github.com/airbnb/lottie-ios/blob/master/LICENSE)
