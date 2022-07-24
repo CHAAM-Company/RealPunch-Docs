@@ -7,7 +7,7 @@
 </h1>
 
 <p align="center">
-  <a href="#:pushpin:-Key-Features">Key Features</a> •
+  <a href="#Key-Features">Key Features</a> •
   <a href="#Authors">Authors</a> •
   <a href="#Screenshots">Screenshots</a> •
   <a href="#Skills & Tech Stack">Skills & Tech Stack</a> •
@@ -21,7 +21,7 @@
 
 ### 펀치속도 측정앱, 리얼펀치
 
-## :pushpin: Key Features
+## Key Features
 
 * 자이로센서
   - 자이로센서를 이용하여 사용자 주먹을 빠르기를 측정할 수 있습니다.
