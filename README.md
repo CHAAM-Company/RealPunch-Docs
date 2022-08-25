@@ -10,7 +10,7 @@
   <a href="#Key-Features">Key Features</a> •
   <a href="#Authors">Authors</a> •
   <a href="#Screenshots">Screenshots</a> •
-  <a href="#Skills & Tech-Stack">Skills & Tech Stack</a> •
+  <a href="#Skills-&-Tech-Stack">Skills & Tech Stack</a> •
   <a href="#Download">Download</a> •
   <a href="#License">License</a>
 </p>
