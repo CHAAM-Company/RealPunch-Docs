@@ -65,4 +65,4 @@ Real Punch의 최신 버전을 [앱스토어](https://apple.co/3PmMR0R)에서 �
 
 ## License
 
-[APACHE 2.0](https://github.com/airbnb/lottie-ios/blob/master/LICENSE)
+[APACHE 2.0](https://github.com/CHAAM-Company/RealPunch-Docs/blob/main/LICENSE)
