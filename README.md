@@ -56,7 +56,7 @@
 
 ## Download
 
-Real Punch의 최신 버전을 [앱스토어]()에서 다운받으실 수 있습니다.
+Real Punch의 최신 버전을 [앱스토어](https://apple.co/3PmMR0R)에서 다운받으실 수 있습니다.
 
 ## Documentation
 
